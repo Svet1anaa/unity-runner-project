@@ -1,9 +1,6 @@
 \#FunRun
 
-
-
 Endless runner mini-game, created in Unity 6
-
 
 
 \##About Project
@@ -17,7 +14,6 @@ decorations and a menu featuring an animated character.
 \##Controls
 
 
-
 \- Left arrow / onscreen "<<" button — switch lanes to the left
 
 \- Right arrow / onscreen ">>" button — switch lanes to the right
@@ -25,7 +21,6 @@ decorations and a menu featuring an animated character.
 
 
 \## Features Implemented
-
 
 
 \- Endless running with lane-switching mechanics
@@ -41,6 +36,16 @@ decorations and a menu featuring an animated character.
 \- Audio: lane switching, collisions, coin collection, and background music
 
 
+###Screenshots
+
+##Main Menu
+![Main menu](Assets/Screenshots/main-mnu.png)
+
+##Gameplay
+![Gameplay](Assets/Screenshots/gameplay.gif)
+
+##Game over screen
+![Game Over](Assets/Screenshots/game-over.png)
 
 \##Technologies
 
