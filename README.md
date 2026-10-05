@@ -39,7 +39,7 @@ decorations and a menu featuring an animated character.
 ###Screenshots
 
 ##Main Menu
-![Main menu](Assets/Screenshots/main-mnu.png)
+![Main menu](Assets/Screenshots/main-menu.png)
 
 ##Gameplay
 ![Gameplay](Assets/Screenshots/gameplay.gif)
